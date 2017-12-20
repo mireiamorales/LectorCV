@@ -21,10 +21,9 @@ import org.apache.poi.xwpf.usermodel.XWPFParagraph;
 
 public class PdfToString {
 	
-	public static final String DEST = "C:\\Wrk\\inditex\\cv-ESZA00135711-135711-0001-01-218185.pdf";
-	//public static final String DEST = "C:\\Wrk\\inditex\\Instalación Lombok y Cygwin.docx";
-	//public static final String DEST = "C:\\Wrk\\inditex\\Instalación Lombok y Cygwin.doc";
-	//public static final String DEST = "C:\\Wrk\\inditex\\cv-ESZA00135711-135711-0001-01-29939.pdf";
+	public static final String DEST = "C:\\Wrk\\inditex\\EjemploCVPdf.pdf";
+	//public static final String DEST = "C:\\Wrk\\inditex\\EjemploCVDocx.docx";
+	//public static final String DEST = "C:\\Wrk\\inditex\\EjemploCVDoc.doc";
 	
 
 	public static void main(String[] args) throws IOException {
